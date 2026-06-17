@@ -35,5 +35,4 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- Email: gnithin1807@gmail.com
