@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm G Nithin</h1>
 
-<h3 align="center">Java Developer | Spring Boot Developer | Backend Enthusiast</h3>
+<h3 align="center">Software Developer | Java Developer | Full Stack Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Developer;Backend+Enthusiast;Full+Stack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Full+Stack+Development+Enthusiast;Spring+Boot+%7C+MySQL+%7C+JavaScript;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.E. Computer Science Graduate
+🎓 Computer Science & Engineering Graduate from Gitam University
 
-💻 Skilled in Java, Spring Boot, MySQL, JDBC
+💻 Passionate about Software Development and building practical applications
 
-🚀 Passionate about Backend Development
+🚀 Skilled in Java, Spring Boot, MySQL, JDBC, HTML, CSS and JavaScript
 
-🌱 Currently improving DSA and Full Stack Development
+🌱 Currently strengthening my knowledge in Full Stack Development and Data Structures & Algorithms
+
+🤝 Open to Software Developer, Java Developer and Full Stack Developer opportunities
 
 📍 Bengaluru, India
 
@@ -24,39 +26,121 @@
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,maven" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+### Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- JDBC
+- REST APIs
+- MVC Architecture
+- SQL & Database Design
+- Software Development Life Cycle (SDLC)
+
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🍔 Food Delivery Web Application
-- Built using Java, JSP, Servlets, JDBC and MySQL
-- User authentication, cart management and order tracking
+
+Built a full-stack food ordering platform using Java, JSP, Servlets, JDBC and MySQL.
+
+**Features**
+- User Authentication
+- Restaurant & Menu Browsing
+- Shopping Cart Management
+- Order Placement & History
 - MVC Architecture
 
-### 📚 Book Store Management System
-- Spring Boot and MySQL based web application
-- Book inventory management and personalized book lists
-
-### 🌱 Smart AgriBot
-- AI-powered crop disease detection system
-- Real-time monitoring using image analysis
+🔗 Repository: https://github.com/Techy-nithin/food-delivery-webapp
 
 ---
 
-## 📊 GitHub Stats
+### 📚 Book Store Management System
 
-![](https://github-readme-stats.vercel.app/api?username=Techy-nithin&show_icons=true)
+Developed a web-based bookstore application using Spring Boot, Thymeleaf and MySQL.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Techy-nithin)
+**Features**
+- Manage Book Inventory
+- Add, Update and Delete Books
+- Personalized Book Collection
+- Responsive User Interface
+
+---
+
+### 🌱 Smart AgriBot
+
+AI-powered crop monitoring and disease detection system for tomato plants using image analysis techniques.
+
+**Features**
+- Disease Detection
+- Crop Health Monitoring
+- Image-Based Analysis
+- Real-Time Recommendations
+
+---
+
+## 📜 Certifications
+
+🏆 Blue Prism Intelligent Automation Virtual Internship
+
+🏆 Palo Alto Networks Cybersecurity Virtual Internship
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Techy-nithin&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techy-nithin" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techy-nithin&layout=compact" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+💼 LinkedIn: www.linkedin.com/in/nithin2064
 
-📧 Your Email Here
+📧 Email: gnithin1807@gmail.com
+
+---
+
+<p align="center">
+  <i>"Learning, Building and Growing One Project at a Time 🚀"</i>
+</p>
