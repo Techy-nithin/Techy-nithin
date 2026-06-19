@@ -81,6 +81,7 @@ Built a full-stack food ordering platform using Java, JSP, Servlets, JDBC and My
 - Order Placement & History
 - MVC Architecture
 
+🔗 Live Demo: https://food-delivery-webapp-1fok.onrender.com
 🔗 Repository: https://github.com/Techy-nithin/food-delivery-webapp
 
 ---
