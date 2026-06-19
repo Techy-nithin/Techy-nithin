@@ -1,39 +1,62 @@
-# Hi, I'm Nithin 👋
+<h1 align="center">Hi 👋, I'm G Nithin</h1>
 
-🎓 Computer Science Engineering Graduate
+<h3 align="center">Java Developer | Spring Boot Developer | Backend Enthusiast</h3>
 
-💻 Java | Spring Boot | React | MySQL | JDBC | JavaScript
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Developer;Backend+Enthusiast;Full+Stack+Learner" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 B.E. Computer Science Graduate
+
+💻 Skilled in Java, Spring Boot, MySQL, JDBC
+
+🚀 Passionate about Backend Development
+
+🌱 Currently improving DSA and Full Stack Development
+
+📍 Bengaluru, India
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,maven" />
+</p>
+
+---
 
 ## 🚀 Projects
 
 ### 🍔 Food Delivery Web Application
-- Java Servlets, JSP, JDBC, MySQL
-- User Authentication, Cart, Order Management
-- Live Demo: https://food-delivery-webapp-1fok.onrender.com
-- GitHub: https://github.com/Techy-nithin/food-delivery-webapp
+- Built using Java, JSP, Servlets, JDBC and MySQL
+- User authentication, cart management and order tracking
+- MVC Architecture
 
-### 🛍️ TechStore
-- React + Vite E-Commerce Application
-- Search, Filters, Shopping Cart, Dark Theme
-- Live Demo: https://techstore-react-five.vercel.app
-- GitHub: https://github.com/Techy-nithin/techstore-react
+### 📚 Book Store Management System
+- Spring Boot and MySQL based web application
+- Book inventory management and personalized book lists
 
-### 📚 Book Management System
-- Spring Boot, Thymeleaf, MySQL
-- Currently under development
+### 🌱 Smart AgriBot
+- AI-powered crop disease detection system
+- Real-time monitoring using image analysis
 
-## 🛠️ Skills
+---
 
-- Java
-- Spring Boot
-- MySQL
-- JDBC
-- React
-- JavaScript
-- HTML
-- CSS
-- Git & GitHub
+## 📊 GitHub Stats
 
-## 📫 Connect With Me
+![](https://github-readme-stats.vercel.app/api?username=Techy-nithin&show_icons=true)
 
-- Email: gnithin1807@gmail.com
+![](https://github-readme-streak-stats.herokuapp.com/?user=Techy-nithin)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
+
+📧 Your Email Here
