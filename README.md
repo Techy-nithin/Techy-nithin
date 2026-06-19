@@ -97,15 +97,24 @@ Developed a web-based bookstore application using Spring Boot, Thymeleaf and MyS
 
 ---
 
-### 🌱 Smart AgriBot
+### 🛒 TechStore - E-Commerce Web Application
 
-AI-powered crop monitoring and disease detection system for tomato plants using image analysis techniques.
+Developed a modern and responsive e-commerce web application for browsing technology products with an intuitive and user-friendly shopping experience.
 
-**Features**
-- Disease Detection
-- Crop Health Monitoring
-- Image-Based Analysis
-- Real-Time Recommendations
+**Key Features**
+- Product Catalog & Category Browsing
+- Product Search and Filtering
+- Shopping Cart Management
+- Responsive Design Across Devices
+- Reusable React Components
+- Modern UI/UX Design
+
+**Tech Stack**
+React.js, JavaScript, HTML5, CSS3, Vite
+
+🔗 Live Demo: https://techstore-react-five.vercel.app
+
+🔗 Repository: https://github.com/Techy-nithin/techstore-react
 
 ---
 
